@@ -2,7 +2,9 @@
  Sou Thauan Vinicius Silva,  tenho 25 anos e moro em São Paulo - SP. Atualmente curso Análise e Desenvolvimento de Sistemas e Sou apaixonado por tecnologia ! 
 
 - 🔭  Atualmente sou  Técnico de manutenção d equipmentos
-- 🌱 estudando analise e desenvolvimento de sistemas
+- 🌱 Estudando analise e desenvolvimento de sistemas
+- ❤️‍🔥🏀Apaixonado por basquete
+- 👨🏾‍🏫 Arbitro de basquete nas horas vagas 
 -  📫 E-mail para contato : thauan.vsilva07@gmail.com
 <div> 
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
@@ -35,9 +37,9 @@
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thauansilva/Thauansilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thauansilva/Thauansilva/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thauansilva/Thauansilva/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -52,18 +54,3 @@
   <img align="center"  alt="Git" title="Git"  height="30" width="40;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 </div>
-
-<!--
-**Thauansilva/Thauansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
